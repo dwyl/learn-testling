@@ -21,15 +21,15 @@ Since there's no registration required for open-source projects,
 you can just dive in by following: https://ci.testling.com/guide/quick_start
 
 
-> Got Stuck adding WebHook URL ...
+> Got Stuck adding WebHook URL ... <br />
 > Sent tweet to Substack: https://twitter.com/nelsonic/statuses/465249089605881857
 
 
 
 ### Background Info
 
-Made by Peteris Krumins [pkrumins](https://github.com/pkrumins) 
-and James Halliday [substack](https://github.com/substack) who you may
+[Tesling][] is Made by Peteris Krumins [@pkrumins](https://github.com/pkrumins) 
+and James Halliday [@substack](https://github.com/substack) who you may
 know from Nodeschool's [Stream Adventure][]
 
 
