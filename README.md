@@ -8,13 +8,31 @@ in the next 10 minutes you will learn everything you need to get started.
 
 ### What is Testling?
 
-Testling is the automated browser testing tool. 
-brother of Browserling. 
+[Tesling][] is an automated browser testing tool (brother of [Browserling][])
+that lets you "***run your browser tests on every push***".
+
+Testling will not *magically* make your app work in all browsers. :tired_face:
+You will still need to write (unit) tests, Testling will run them for you
+in any browser you specify in your config. 
+
+### Get Started
+
+Since there's no registration required for open-source projects,
+you can just dive in by following: https://ci.testling.com/guide/quick_start
+
+
+
+
 
 Made by Peteris Krumins [pkrumins](https://github.com/pkrumins) 
 and James Halliday [substack](https://github.com/substack) who you may
-know from Nodeschool's Stream Adventure
+know from Nodeschool's [Stream Adventure][]
 
-https://browserling.com/#/about
+
+[Tesling]: https://ci.testling.com/
+[Browserling]: https://browserling.com
+[Stream Adventure]: http://nodeschool.io/#stream-adventure
 
 https://ci.testling.com/
+
+

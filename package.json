@@ -1,0 +1,44 @@
+{
+  "name": "learn-testling",
+  "version": "0.0.1",
+  "description": "Simple Testling CI Tutorial",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/max.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nelsonic/learn-testling.git"
+  },
+  "keywords": [
+    "Testling",
+    "CI",
+    "Tutorial"
+  ],
+  "author": "@nelsonic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsonic/learn-testling/issues"
+  },
+  "homepage": "https://github.com/nelsonic/learn-testling",
+  "devDependencies": {
+    "tape": "^2.12.3"
+  },  
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/6..latest",
+      "chrome/22..latest",
+      "firefox/16..latest",
+      "safari/latest",
+      "opera/11.0..latest",
+      "iphone/6",
+      "ipad/6",
+      "android-browser/latest"
+    ]
+  }
+}
