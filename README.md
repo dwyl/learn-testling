@@ -22,7 +22,8 @@ you can just dive in by following: https://ci.testling.com/guide/quick_start
 
 
 > Got Stuck adding WebHook URL ... <br />
-> Sent tweet to Substack: https://twitter.com/nelsonic/statuses/465249089605881857
+> Sent tweet to Substack: https://twitter.com/nelsonic/statuses/465249089605881857 <br />
+> Submitted issue to: https://github.com/substack/testling/issues/81
 
 
 
