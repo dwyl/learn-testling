@@ -33,6 +33,11 @@ you can just dive in by following: https://ci.testling.com/guide/quick_start
 and James Halliday [@substack](https://github.com/substack) who you may
 know from Nodeschool's [Stream Adventure][]
 
+#### Responsive Founders
+
+![Twitter Reply from Substack](http://i.imgur.com/9ynfYGf.png)
+
+See: https://twitter.com/substack/statuses/465599077342654464
 
 [Tesling]: https://ci.testling.com/
 [Browserling]: https://browserling.com
