@@ -35,6 +35,8 @@ know from Nodeschool's [Stream Adventure][]
 
 #### Responsive Founders
 
+Always a good sign when queries get answered by founders:
+
 ![Twitter Reply from Substack](http://i.imgur.com/9ynfYGf.png)
 
 See: https://twitter.com/substack/statuses/465599077342654464
