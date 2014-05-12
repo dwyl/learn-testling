@@ -14,9 +14,9 @@ in the next 10 minutes you will learn everything you need to get started.
 [Tesling][] is an automated browser testing tool (brother of [Browserling][])
 that lets you "***run your browser tests on every push***".
 
-Testling will not *magically* make your app work in all browsers. :tired_face:
+Testling will not *magically* make your app work in all browsers. :tired_face: <br />
 You will still need to write (unit) tests, Testling will run them for you
-in any browser you specify in your config. 
+in any browser you specify in your package.json configuration file. 
 
 ### Get Started
 
@@ -45,7 +45,7 @@ know from Nodeschool's [Stream Adventure][]
 
 #### Responsive Founders
 
-Always a good sign when queries get answered by founders:
+Its always a good sign when (busy) founders answer queries:
 
 ![Twitter Reply from Substack](http://i.imgur.com/9ynfYGf.png)
 
