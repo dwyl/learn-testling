@@ -1,5 +1,8 @@
-learn-testling
-==============
+Learn Testling CI
+=================
+
+[![browser support](https://ci.testling.com/nelsonic/learn-testling.png)
+](https://ci.testling.com/nelsonic/learn-testling)
 
 Quick intro to Testling CI (Cross Browser Testing)
 
@@ -25,6 +28,13 @@ you can just dive in by following: https://ci.testling.com/guide/quick_start
 > Sent tweet to Substack: https://twitter.com/nelsonic/statuses/465249089605881857 <br />
 > Submitted issue to: https://github.com/substack/testling/issues/81
 
+### Result!
+
+https://ci.testling.com/nelsonic/learn-testling
+
+Sadly Internet Explorer 6, 7 & 8 does not pass...
+
+https://twitter.com/nelsonic/statuses/465651619070500864
 
 
 ### Background Info
