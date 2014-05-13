@@ -1,3 +1,4 @@
+
 // IE reduce polyfill
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce#Browser_compatibility
 if ( 'function' !== typeof Array.prototype.reduce ) {

@@ -37,6 +37,8 @@ Sadly Internet Explorer 6, 7 & 8 does not pass...
 https://twitter.com/nelsonic/statuses/465651619070500864
 
 
+>> ***Next***: Investigate Tape https://ci.testling.com/guide/tape
+
 ### Background Info
 
 [Tesling][] is Made by Peteris Krumins [@pkrumins](https://github.com/pkrumins) 
