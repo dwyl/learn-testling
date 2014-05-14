@@ -8,7 +8,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "node test/max.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -26,9 +26,10 @@
   },
   "homepage": "https://github.com/nelsonic/learn-testling",
   "devDependencies": {
-    "tape": "^2.12.3"
-  },  
+    "mocha": "~1.0.2"
+  },
   "testling": {
+    "harness": "mocha-bdd",
     "files": "test/*.js",
     "browsers": [
       "ie/6..latest",
@@ -40,5 +41,8 @@
       "ipad/6",
       "android-browser/latest"
     ]
+  },
+  "dependencies": {
+    "chai": "~1.9.1"
   }
 }
