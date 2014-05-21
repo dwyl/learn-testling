@@ -24,10 +24,6 @@ Since there's no registration required for open-source projects,
 you can just dive in by following: https://ci.testling.com/guide/quick_start
 
 
-> Got Stuck adding WebHook URL ... <br />
-> Sent tweet to Substack: https://twitter.com/nelsonic/statuses/465249089605881857 <br />
-> Submitted issue to: https://github.com/substack/testling/issues/81
-
 ### Result!
 
 https://ci.testling.com/nelsonic/learn-testling
@@ -37,7 +33,9 @@ Sadly Internet Explorer 6, 7 & 8 does not pass...
 https://twitter.com/nelsonic/statuses/465651619070500864
 
 
->> ***Next***: Investigate Tape https://ci.testling.com/guide/tape
+>> ***Next***: Investigate using Testling with Mocha: https://ci.testling.com/guide/mocha
+
+![Testling TypeError](http://i.imgur.com/VsSdwWv.png)
 
 ### Background Info
 
@@ -46,6 +44,10 @@ and James Halliday [@substack](https://github.com/substack) who you may
 know from Nodeschool's [Stream Adventure][]
 
 #### Responsive Founders
+
+Got Stuck adding a WebHook URL ... <br />
+Sent tweet to Substack: https://twitter.com/nelsonic/statuses/465249089605881857 <br />
+and submitted an issue to: https://github.com/substack/testling/issues/81
 
 Its always a good sign when (busy) founders answer queries:
 

@@ -1,9 +1,12 @@
-var chai = require('chai');
-var assert = chai.assert; 
+var assert = require('assert');
+var maxBy = require('../');
 
-describe('Cash Register', function(){
-	it('should have a getChange Method', function(){
-		assert.equal(1,1);
+suite('Mocha TDD simple comparisons', function(){
+	test('maxBy [9,3,4] should return 4', function(){
+		var n = maxBy([9,3,4], function (x) {
+			return x % 3;
+		});
+		assert.equal(n, 4);
 	});
 });
 
