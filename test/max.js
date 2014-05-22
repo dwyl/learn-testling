@@ -10,6 +10,7 @@ suite('Mocha TDD simple comparisons', function(){
 	});
 });
 
+/*** IGNORE - Old tape tests for reference only ***/
 // var maxBy = require('../');
 // var test = require('tape');
 

@@ -1,6 +1,14 @@
 Learn Testling CI
 =================
 
+> Currently getting the following error while trying to run **testling** CLI locally:
+
+![Testling TypeError](http://i.imgur.com/VsSdwWv.png)
+
+> Submitted issue: https://github.com/substack/testling/issues/82
+> Sent tweet to @substack: https://twitter.com/nelsonic/statuses/469425224770146304
+
+
 [![browser support](https://ci.testling.com/nelsonic/learn-testling.png)
 ](https://ci.testling.com/nelsonic/learn-testling)
 
@@ -34,8 +42,6 @@ https://twitter.com/nelsonic/statuses/465651619070500864
 
 
 >> ***Next***: Investigate using Testling with Mocha: https://ci.testling.com/guide/mocha
-
-![Testling TypeError](http://i.imgur.com/VsSdwWv.png)
 
 ### Background Info
 

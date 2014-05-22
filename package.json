@@ -7,9 +7,6 @@
     "example": "example",
     "test": "test"
   },
-  "scripts": {
-    "test": "mocha --ui tdd"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/nelsonic/learn-testling.git"
@@ -27,6 +24,9 @@
   "homepage": "https://github.com/nelsonic/learn-testling",
   "devDependencies": {
     "mocha": "~1.0.2"
+  },
+  "scripts": {
+    "test": "mocha --ui tdd"
   },
   "testling": {
     "harness": "mocha-tdd",
