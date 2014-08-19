@@ -23,6 +23,7 @@ in any browser you specify in your package.json configuration file.
 Since there's no registration required for open-source projects,
 you can just dive in by following: https://ci.testling.com/guide/quick_start
 
+
 ### Result!
 
 https://ci.testling.com/nelsonic/learn-testling
@@ -39,6 +40,13 @@ https://twitter.com/nelsonic/statuses/465651619070500864
 [Tesling][] is Made by Peteris Krumins [@pkrumins](https://github.com/pkrumins)
 and James Halliday [@substack](https://github.com/substack) who you may
 know from Nodeschool's [Stream Adventure][]
+
+
+### Hurdles
+
+Got Stuck adding WebHook URL ... <br />
+Sent tweet to Substack: https://twitter.com/nelsonic/statuses/465249089605881857 <br />
+Submitted issue to: https://github.com/substack/testling/issues/81
 
 #### Responsive Founders
 
