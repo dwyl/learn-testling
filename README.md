@@ -24,7 +24,7 @@ that lets you "***run your browser tests on every push***".
 
 Testling will not *magically* make your app work in all browsers. :tired_face: <br />
 You will still need to write (unit) tests, Testling will run them for you
-in any browser you specify in your package.json configuration file. 
+in any browser you specify in your package.json configuration file.
 
 ### Get Started
 
@@ -41,13 +41,24 @@ Sadly Internet Explorer 6, 7 & 8 does not pass...
 https://twitter.com/nelsonic/statuses/465651619070500864
 
 
->> ***Next***: Investigate using Testling with Mocha: https://ci.testling.com/guide/mocha
+
+> ***Next***: Investigate Tape https://ci.testling.com/guide/tape
+
+> [ ] Fix build!
+
 
 ### Background Info
 
-[Tesling][] is Made by Peteris Krumins [@pkrumins](https://github.com/pkrumins) 
+[Tesling][] is Made by Peteris Krumins [@pkrumins](https://github.com/pkrumins)
 and James Halliday [@substack](https://github.com/substack) who you may
 know from Nodeschool's [Stream Adventure][]
+
+
+### Hurdles
+
+Got Stuck adding WebHook URL ... <br />
+Sent tweet to Substack: https://twitter.com/nelsonic/statuses/465249089605881857 <br />
+Submitted issue to: https://github.com/substack/testling/issues/81
 
 #### Responsive Founders
 
@@ -64,3 +75,7 @@ See: https://twitter.com/substack/statuses/465599077342654464
 [Tesling]: https://ci.testling.com/
 [Browserling]: https://browserling.com
 [Stream Adventure]: http://nodeschool.io/#stream-adventure
+
+Got Stuck adding WebHook URL ... <br />
+Sent tweet to Substack: https://twitter.com/nelsonic/statuses/465249089605881857 <br />
+Submitted issue to: https://github.com/substack/testling/issues/81
