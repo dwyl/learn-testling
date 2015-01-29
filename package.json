@@ -29,7 +29,6 @@
     "test": "node test/max.js"
   },
   "testling": {
-    "harness": "mocha-tdd",
     "files": "test/*.js",
     "browsers": [
       "ie/6..latest",
