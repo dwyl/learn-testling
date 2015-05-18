@@ -1,0 +1,161 @@
+{
+  "ref": "refs/heads/master",
+  "before": "a446e1a9a7963b7b1710cacbe6c50e7a56bac0be",
+  "after": "b87134707d5e5db7b3c3c192506aaf7b7d3b4fcb",
+  "created": false,
+  "deleted": false,
+  "forced": false,
+  "base_ref": null,
+  "compare": "https://github.com/nelsonic/learn-testling/compare/a446e1a9a796...b87134707d5e",
+  "commits": [
+    {
+      "id": "b87134707d5e5db7b3c3c192506aaf7b7d3b4fcb",
+      "distinct": true,
+      "message": "updates package.json to use html instead of file https://ci.testling.com/guide/advanced_configuration",
+      "timestamp": "2015-05-18T18:02:35+01:00",
+      "url": "https://github.com/nelsonic/learn-testling/commit/b87134707d5e5db7b3c3c192506aaf7b7d3b4fcb",
+      "author": {
+        "name": "nelsonic",
+        "email": "contact.nelsonic@gmail.com",
+        "username": "nelsonic"
+      },
+      "committer": {
+        "name": "nelsonic",
+        "email": "contact.nelsonic@gmail.com",
+        "username": "nelsonic"
+      },
+      "added": [
+
+      ],
+      "removed": [
+
+      ],
+      "modified": [
+        "package.json"
+      ]
+    }
+  ],
+  "head_commit": {
+    "id": "b87134707d5e5db7b3c3c192506aaf7b7d3b4fcb",
+    "distinct": true,
+    "message": "updates package.json to use html instead of file https://ci.testling.com/guide/advanced_configuration",
+    "timestamp": "2015-05-18T18:02:35+01:00",
+    "url": "https://github.com/nelsonic/learn-testling/commit/b87134707d5e5db7b3c3c192506aaf7b7d3b4fcb",
+    "author": {
+      "name": "nelsonic",
+      "email": "contact.nelsonic@gmail.com",
+      "username": "nelsonic"
+    },
+    "committer": {
+      "name": "nelsonic",
+      "email": "contact.nelsonic@gmail.com",
+      "username": "nelsonic"
+    },
+    "added": [
+
+    ],
+    "removed": [
+
+    ],
+    "modified": [
+      "package.json"
+    ]
+  },
+  "repository": {
+    "id": 19635048,
+    "name": "learn-testling",
+    "full_name": "nelsonic/learn-testling",
+    "owner": {
+      "name": "nelsonic",
+      "email": "contact.nelsonic@gmail.com"
+    },
+    "private": false,
+    "html_url": "https://github.com/nelsonic/learn-testling",
+    "description": "Quick intro to Testling CI (Cross Browser Testing)",
+    "fork": false,
+    "url": "https://github.com/nelsonic/learn-testling",
+    "forks_url": "https://api.github.com/repos/nelsonic/learn-testling/forks",
+    "keys_url": "https://api.github.com/repos/nelsonic/learn-testling/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/nelsonic/learn-testling/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/nelsonic/learn-testling/teams",
+    "hooks_url": "https://api.github.com/repos/nelsonic/learn-testling/hooks",
+    "issue_events_url": "https://api.github.com/repos/nelsonic/learn-testling/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/nelsonic/learn-testling/events",
+    "assignees_url": "https://api.github.com/repos/nelsonic/learn-testling/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/nelsonic/learn-testling/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/nelsonic/learn-testling/tags",
+    "blobs_url": "https://api.github.com/repos/nelsonic/learn-testling/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/nelsonic/learn-testling/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/nelsonic/learn-testling/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/nelsonic/learn-testling/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/nelsonic/learn-testling/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/nelsonic/learn-testling/languages",
+    "stargazers_url": "https://api.github.com/repos/nelsonic/learn-testling/stargazers",
+    "contributors_url": "https://api.github.com/repos/nelsonic/learn-testling/contributors",
+    "subscribers_url": "https://api.github.com/repos/nelsonic/learn-testling/subscribers",
+    "subscription_url": "https://api.github.com/repos/nelsonic/learn-testling/subscription",
+    "commits_url": "https://api.github.com/repos/nelsonic/learn-testling/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/nelsonic/learn-testling/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/nelsonic/learn-testling/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/nelsonic/learn-testling/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/nelsonic/learn-testling/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/nelsonic/learn-testling/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/nelsonic/learn-testling/merges",
+    "archive_url": "https://api.github.com/repos/nelsonic/learn-testling/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/nelsonic/learn-testling/downloads",
+    "issues_url": "https://api.github.com/repos/nelsonic/learn-testling/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/nelsonic/learn-testling/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/nelsonic/learn-testling/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/nelsonic/learn-testling/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/nelsonic/learn-testling/labels{/name}",
+    "releases_url": "https://api.github.com/repos/nelsonic/learn-testling/releases{/id}",
+    "created_at": 1399703272,
+    "updated_at": "2015-05-17T20:01:20Z",
+    "pushed_at": 1431968559,
+    "git_url": "git://github.com/nelsonic/learn-testling.git",
+    "ssh_url": "git@github.com:nelsonic/learn-testling.git",
+    "clone_url": "https://github.com/nelsonic/learn-testling.git",
+    "svn_url": "https://github.com/nelsonic/learn-testling",
+    "homepage": null,
+    "size": 368,
+    "stargazers_count": 4,
+    "watchers_count": 4,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 1,
+    "mirror_url": null,
+    "open_issues_count": 1,
+    "forks": 1,
+    "open_issues": 1,
+    "watchers": 4,
+    "default_branch": "master",
+    "stargazers": 4,
+    "master_branch": "master"
+  },
+  "pusher": {
+    "name": "nelsonic",
+    "email": "contact.nelsonic@gmail.com"
+  },
+  "sender": {
+    "login": "nelsonic",
+    "id": 194400,
+    "avatar_url": "https://avatars.githubusercontent.com/u/194400?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nelsonic",
+    "html_url": "https://github.com/nelsonic",
+    "followers_url": "https://api.github.com/users/nelsonic/followers",
+    "following_url": "https://api.github.com/users/nelsonic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nelsonic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nelsonic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nelsonic/subscriptions",
+    "organizations_url": "https://api.github.com/users/nelsonic/orgs",
+    "repos_url": "https://api.github.com/users/nelsonic/repos",
+    "events_url": "https://api.github.com/users/nelsonic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nelsonic/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+}
