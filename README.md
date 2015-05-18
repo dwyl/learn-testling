@@ -1,10 +1,23 @@
-Learn Testling CI
+Learn Testling CI  [Work in Progress!!]
 =================
 
-QUnit + QUnit-TAP ?
+Testling is Substack's answer to SauceLabs
 
-+ Custom Libraries: https://ci.testling.com/guide/custom_libraries
+## Can we test using QUnit (with QUnit-TAP) on Testling?
 
+While I managed to get the tests working in the browser:
+https://learn-testling.herokuapp.com/  
+following the **Custom Libraries** instructions: https://ci.testling.com/guide/custom_libraries
+
+Sadly, I could not get the **Web Hook** to work on GitHub!
+
+
+I posted a question to StackOverflow: http://stackoverflow.com/questions/30310409/how-do-i-setup-testling-ci-with-qunit-qunit-tap
+
+And tweeted it to Substack: https://twitter.com/nelsonic/status/600368503401664512
+
+
+> Come back to this if we get any reply on StackOverflow, Twitter or GitHub! until then, SauceLabs...
 
 ## Note
 
