@@ -1,6 +1,6 @@
 {
   "name": "learn-testling",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple Testling CI Tutorial",
   "main": "index.js",
   "directories": {
@@ -31,7 +31,7 @@
     "test": "node test/test.js"
   },
   "testling": {
-    "files": "test/*.js",
+    "html": "test.html",
     "browsers": [
       "ie/6..latest",
       "chrome/22..latest",
