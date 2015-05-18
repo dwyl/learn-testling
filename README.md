@@ -1,6 +1,35 @@
 Learn Testling CI
 =================
 
+
+
+
++ Custom Libraries: https://ci.testling.com/guide/custom_libraries
+
+
+## Note
+
+To run this project you will need to sign up to **Browserling**:
+https://www.browserling.com/  
+at the time of writing the API is available by invite.
+Once you've registered, send browserling an email to get access.
+
+![browserling-live-api-email-reply](https://cloud.githubusercontent.com/assets/194400/7678534/cb346b82-fd4c-11e4-899d-6736556a2d23.png)
+
+
+## Environment Variables
+
+```sh
+export BROWSERLING_EMAIL=
+export BROWSERLING_PASSWORD=
+```
+
+
+<br />
+<br />
+
+# tl;dr
+
 > Currently getting the following error while trying to run **testling** CLI locally:
 
 ![Testling TypeError](http://i.imgur.com/VsSdwWv.png)

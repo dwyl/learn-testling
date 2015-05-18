@@ -1,10 +1,52 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>Learn Testling</title>
-</head>
-<body>
-  <script src="test_bundle.js"></script>
-</body>
+  <head>
+    <meta charset="utf-8">
+    <title>Learn Testling</title>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/qunit/qunit-1.18.0.css">
+  </head>
+  <body>
+    <div id="qunit"></div>
+    <div id="qunit-fixture"></div>
+    <script src="https://code.jquery.com/qunit/qunit-1.18.0.js"></script>
+    <script src="https://cdn.rawgit.com/twada/qunit-tap/master/lib/qunit-tap.js"></script>
+    <script src="https://rawgit.com/dwyl/ordenado/4ba39bc8e383bd46be337339be188e20bfb2b3a2/index.js" data-cover></script>
+    <script>
+      // output test results as TAP http://git.io/vTOny
+      qunitTap(QUnit, function() { console.log.apply(console, arguments); });
+
+test("Results appear in the order we expect them", function(assert) {
+  var done     = assert.async(); // see: https://api.qunitjs.com/async/
+  var actual   = [];
+  var expected = [ 'one', 'two', 'three' ];
+  function check() {
+    for(i=0; i<actual.length; i++){
+      assert.equal(actual[i],expected[i], ''+i + ' is ' + actual[i] +' | expected: '+ expected[i]);
+    }
+  }
+  // exercise the function
+  ordenado([
+    function(callback){
+      actual.push('one');
+      callback(null, 'one', 'two');
+    },
+    function(arg1, arg2, callback){
+      actual.push('two');
+      callback(null, 'three');
+    },
+    function(arg1, callback){
+      // arg1 now equals 'three'
+      actual.push('three');
+      callback(null, 'done');
+    }
+  ], function callback(err, result) {
+    // result now equals 'done'
+    check();
+    done()
+  });
+});
+
+    </script>
+  </body>
 </html>

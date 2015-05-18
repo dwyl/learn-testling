@@ -23,13 +23,14 @@
   },
   "homepage": "https://github.com/nelsonic/learn-testling",
   "devDependencies": {
-    "mocha": "~1.0.2"
+    "ordem": "^1.0.6",
+    "qunit-tap": "^1.5.0",
+    "qunitjs": "^1.18.0"
   },
   "scripts": {
-    "test": "mocha --ui tdd"
+    "test": "node test/test.js"
   },
   "testling": {
-    "harness": "mocha-tdd",
     "files": "test/*.js",
     "browsers": [
       "ie/6..latest",
