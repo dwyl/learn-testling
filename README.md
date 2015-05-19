@@ -17,6 +17,10 @@ I posted a question to StackOverflow: http://stackoverflow.com/questions/3031040
 And tweeted it to Substack: https://twitter.com/nelsonic/status/600368503401664512
 
 
+Given that this is a **known issue**: https://github.com/substack/testling/issues/88
+I'm not going to hold my breath on it.
+
+
 > Come back to this if we get any reply on StackOverflow, Twitter or GitHub! until then, SauceLabs...
 
 ## Note
